@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student at the University of the Immaculate Conception
-- 🌱 I’m currently learning MEAN and LAMP web development stack! 
-- 📫 How to reach me: https://www.facebook.com/Shiroe123
+- 🔭 I’m a Software Developer based on the Philippines. I love coding and solving problems in general. 
+- 🌱 My main focus is currently on hybrid mobile development using React Native and have dabbled with various frontend and backend technologies. 
+- 📫 How to reach me: https://www.linkedin.com/in/jperez1738/
 - ⚡ Fun fact: The laravel command `php artisan inspire` prints out inspirational qoutes on your terminal!
 
